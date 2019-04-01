@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1490967435 source:c:\users\moh\desktop\training\codeblocks\ai\functions.cpp
+	<iostream>
+	<vector>
+	"includes.h"
+
+1490968866 c:\users\moh\desktop\training\codeblocks\ai\functions.h
+
+1491987351 source:c:\users\moh\desktop\training\codeblocks\ai\main.cpp
+	<iostream>
+	"acquireLinks.h"
+	"includes.h"
+	<sstream>
+	<vector>
+	"node.h"
+	"list.h"
+
+1491922009 c:\users\moh\desktop\training\codeblocks\ai\link.h
+	<iostream>
+
+1491921995 source:c:\users\moh\desktop\training\codeblocks\ai\link.cpp
+	<iostream>
+	"Link.h"
+
+1489928119 c:\users\moh\desktop\training\codeblocks\ai\includes.h
+	"Link.h"
+	"functions.h"
+	<fstream>
+	<string>
+	<vector>
+	"list.h"
+	"node.h"
+
+1491988034 source:c:\users\moh\desktop\training\codeblocks\ai\node.cpp
+	"includes.h"
+	"node.h"
+	"acquireLinks.h"
+	<iostream>
+	"acquireLinks.h"
+	<sstream>
+	<vector>
+	"list.h"
+
+1491988517 c:\users\moh\desktop\training\codeblocks\ai\node.h
+	"includes.h"
+	"list.h"
+
+1491979803 source:c:\users\moh\desktop\training\codeblocks\ai\list.cpp
+	"includes.h"
+	"list.h"
+	<iostream>
+
+1491989147 c:\users\moh\desktop\training\codeblocks\ai\list.h
+	"node.h"
+
+1490968450 source:c:\users\moh\desktop\training\codeblocks\ai\acquire.cpp
+
+1490968454 c:\users\moh\desktop\training\codeblocks\ai\acquire.h
+
+1491923021 source:c:\users\moh\desktop\training\codeblocks\ai\acquirelinks.cpp
+	"acquireLinks.h"
+	"acquire.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"includes.h"
+	<vector>
+
+1491922319 c:\users\moh\desktop\training\codeblocks\ai\acquirelinks.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"includes.h"
+	<vector>
+
+1491747950 source:c:\users\moh\desktop\training\codeblocks\ai\algorithms.cpp
+	"algorithms.h"
+
+1491747950 c:\users\moh\desktop\training\codeblocks\ai\algorithms.h
+

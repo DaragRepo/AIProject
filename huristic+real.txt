@@ -1,0 +1,12 @@
+a b 4 2 
+c a 1 0
+b d 3 2 
+e b 8 7  
+c d 2 6
+g f 8 7 
+g e 2 1 
+c f 6 5 
+d e 4 3 
+g w 2 1
+
+

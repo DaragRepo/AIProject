@@ -1,0 +1,11 @@
+
+base1:  main.o Link.o functions.o 
+	g++ main.o link.o -o base1
+main.o: 
+	g++ -c main.cpp
+Link.o:	
+	g++ -c Link.cpp
+functions.o:
+	g++ -c functions.cpp
+clean:
+	rm *.o base1
